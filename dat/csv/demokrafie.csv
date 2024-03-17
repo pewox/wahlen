@@ -1,0 +1,17 @@
+,bundesland,laender_id,einwohner,wahlberechtigt
+0,Schleswig-Holstein(SH),sh,2810000,2200000
+1,Hamburg(HH),hh,1750000,1300000
+2,Bremen(HB),hb,650000,500000
+3,Mecklenb.-Vorpommern(MV),mv,1590000,1300000
+4,Niedersachsen(NI),ni,7790000,6000000
+5,Berlin(BE),be,3520000,2400000
+6,Brandenburg(BB),bb,2440000,2000000
+7,Sachsen-Anhalt(ST),st,2240000,1800000
+8,Sachsen(SN),sn,4040000,3200000
+9,Thüringen(TH),th,2160000,1700000
+10,Hessen(HE),he,6040000,4300000
+11,Nordrhein-Westfalen(NW),nw,17570000,12800000
+12,Rheinland-Pfalz(RP),rp,3990000,3000000
+13,Saarland(SL),sl,990000,700000
+14,Baden-Württemberg(BW),bw,10630000,7700000
+15,Bayern(BY),by,12560000,9400000
